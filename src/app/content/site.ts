@@ -6,6 +6,8 @@ export const siteLinks = {
   servicesSection: "#services",
   staffSection: "#staff",
   transparencySection: "#transparency",
+  instagram: "https://www.instagram.com/afterbeyondnetworks/",
+  x: "https://x.com/after_beyond",
 } as const;
 
 export const navTargets = [
